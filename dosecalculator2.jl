@@ -31,7 +31,7 @@ md"""
 
 # ╔═╡ 3605302d-daa0-42d8-a166-7403708978a0
 md"""
-## Blood Level Calculator 
+## Blood Level Change Calculator 
 """
 
 # ╔═╡ a2806b36-4abc-404f-a5b3-b58e7e01292a
